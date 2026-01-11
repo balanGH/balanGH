@@ -39,8 +39,8 @@ Here are some projects I’ve built — check them out!
 ---
 
 ## 📫 Connect with Me
-- 📧 Email: **[your.email@example.com]**
-- 🔗 LinkedIn: [linkedin.com/in/your-linkedin](https://linkedin.com)
+- 📧 Email: **[boobalanvk254@gmail.com]**
+- 🔗 LinkedIn: [linkedin.com/in/boobalanvk254](https://linkedin.com)
 - 🌐 Portfolio: *Add link if available*
 
 ---
